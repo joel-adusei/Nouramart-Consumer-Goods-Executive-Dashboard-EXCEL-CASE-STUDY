@@ -1,9 +1,11 @@
 # Nouramart-Consumer-Goods-Executive-Dashboard-EXCEL-CASE-STUDY
 
 A business intelligence dashboard project built in Microsoft Excel to analyze revenue performance, product trends, regional sales, and channel efficiency for Nouramart Consumer Goods.
+
 🔍 Project Overview
 
-This project transforms raw sales data into an interactive executive dashboard that provides insights into monthly revenue trends, top-performing products, regional sales distribution, and channel performance.
+    This project transforms raw sales data into an interactive executive dashboard that 
+    provides insights into monthly revenue trends, top-performing products, regional sales distribution, and channel performance.
 
 📖 Project Objectives
 
