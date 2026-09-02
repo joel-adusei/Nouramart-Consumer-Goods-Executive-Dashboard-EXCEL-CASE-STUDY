@@ -1,4 +1,4 @@
-# Nouramart-Consumer-Goods-Executive-Dashboard-EXCEL-CASE-STUDY
+#Sales Performance Dashboard (Excel Case Study)
 
 A business intelligence dashboard project built in Microsoft Excel to analyze revenue performance, product trends, regional sales, and channel efficiency for Nouramart Consumer Goods.
 
